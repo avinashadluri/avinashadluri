@@ -1,16 +1,18 @@
-### Hi there 👋
-- 🔭 I’m a javascript developer
-<!--
-**avinashadluri/avinashadluri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, I'm Avinash 👋
 
-Here are some ideas to get you started:
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/g-popovic/g-popovic/master/programmer.gif" width="500" height="320" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a full stack javascript developer with lots of experience in javascript related stuff, predominantly with React.js, Node.js, React testing library and Next.js.
+
+### My Interests:
+
+-   Web Development👨‍💻
+-   Code patterns🧠
+-   New libaries/tools🔐
+
+### Contact 📱:
+
+-   <a href="https://www.linkedin.com/in/avinashadluri/">LinkedIn</a>
+-   <a href="https://twitter.com/avinashadluri/">Twitter</a>
+-   <a href="https://avinashadluri.github.io">Portfolio</a>
+-   avinashadluri@gmail.com
