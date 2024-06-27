@@ -1,6 +1,6 @@
 ## Hi there, I'm Avinash 👋
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/g-popovic/g-popovic/master/programmer.gif" width="500" height="320" />
+  <img align="center" alt="GIF" src="https://raw.githubusercontent.com/g-popovic/g-popovic/master/programmer.gif" width="500" height="320" />
 
 🌟 Experienced Lead engineer / Senior Engineer / Full-stack Engineer  specializing in React, TypeScript, Next.js, Redux, and Node.js, Design systems, Micro services, Micro frontends 🌟
 
