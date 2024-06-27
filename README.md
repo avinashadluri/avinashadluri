@@ -30,5 +30,5 @@ Passionate about crafting exceptional user experiences and building scalable app
 
 -   <a href="https://www.linkedin.com/in/avinashadluri/">LinkedIn</a>
 -   <a href="https://twitter.com/avinashadluri/">Twitter</a>
--   <a href="https://avinashadluri.github.io">Portfolio</a>
+-   <a href="https://avinashadluri.com">Portfolio</a>
 -   avinashadluri@gmail.com
