@@ -2,29 +2,29 @@
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/g-popovic/g-popovic/master/programmer.gif" width="500" height="320" />
 
-Creative Lead Front-End Developer offering 12+ years of experience providing high-impact web solutions for diverse industry organizations. Skilled in managing team, working in large code bases (e.g. React) with knowledge of front-end web technologies. Experience in web design and the fundamentals of user experience, including accessibility. Aspiring to combine broad background with strong technical skills to excel as a Front-End Developer & Lead. 
+🌟 Experienced Lead engineer / Senior Engineer / Full-stack Engineer  specializing in React, TypeScript, Next.js, Redux, and Node.js, Design systems, Micro services, Micro frontends 🌟
 
-**Key things:**
+Passionate about crafting exceptional user experiences and building scalable applications, I bring a wealth of expertise in web development coupled with a diverse background across various sectors including Banking, Fintech, Insurance, Education, and Startups.
 
-- Experience in leading the front-end development team of 3 - 7.
-- I have demonstrated ability to succeed in a cross-functional agile product team. 
-- I know what it takes to ship web applications with React and/or Typescript. 
-- I can work with cross-functional team of UX Designers, Program Managers, and Product owners to discuss design and product decisions based on technical feasibility.
-- I can deliver innovative, engaging prototypes using the front-end technologies, including visual effects, graphic design templates, and data visualization. 
-- I know how to work on a design system and create reusable component library which can be shared through out the product.
-- I can ensure efficiency, security, and maintainability of applications.
+💼 **Professional Skills:**
+- **Frontend Development**: Proficient in React, TypeScript, Next.js, Redux, Graphql and JavaScript, with a keen eye for detail in UI/UX design and implementation.
+- **Backend Integration**: Skilled in Node.js , Typescript, Graphql and Express.js for seamless frontend-backend communication and data handling.
+- **Micro Frontend & Microservices**: Experienced in architecting and developing micro frontend and microservices architectures for modular and scalable applications.
+- **Design Systems**: Well-versed in design systems implementation to ensure consistency and efficiency in development workflows.
+- **Industry Exposure**: Accomplished in navigating diverse sectors including Banking, Fintech, Insurance, Education, and Startups, understanding unique challenges and delivering tailored solutions.
+  
+🔍 **Key Achievements:**
 
-**Tech skills:**
+- Experience in leading cross-functional teams to successful production deliveries. 
+- Successful track record of leading and mentoring teams, driving projects from conception to completion.
+- Specialized in developing and maintaining design systems to ensure consistency and scalability. 
+- Successfully led the development of cutting-edge frontend applications, contributing to enhanced user engagement and satisfaction.
+- Implemented robust design systems resulting in improved development speed and consistency across projects.
+- Played a pivotal role in the adoption of micro frontend and microservices architectures, facilitating scalability and maintainability.
+- Collaborated with cross-functional teams to deliver innovative solutions aligned with business objectives in various industry domains.
 
-Javascript . Typescript . React . Redux . Nextjs . Server side rendering . React Query . Nodejs . Mongodb . Html5 . Css3 . Webpack . Rollup . D3 charts . Accessibility . Responsive design . Jest . React testing library . Enzyme . Design systems . Sass . Aws cloud practitioner . Docker. Git . GraphQL . CI/CD pipelines . 
 
-
-
-**My Interests:**
-
--   Web Development👨‍💻
--   Code patterns🧠
--   New libaries/tools🔐
+🚀 Excited about leveraging my skills and experiences to contribute to impactful projects and teams. Open to new challenges and opportunities for growth in frontend development, with a focus on innovation and excellence.
 
 **Contact 📱:**
 
